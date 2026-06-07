@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package ste.javafx.commons.collections;
+package ste.commons.javafx.collections;
 
 import javafx.collections.ListChangeListener;
 import javafx.collections.ObservableList;

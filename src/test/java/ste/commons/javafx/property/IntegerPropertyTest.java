@@ -1,5 +1,6 @@
-package ste.javafx.commons.property;
+package ste.commons.javafx.property;
 
+import ste.commons.javafx.property.IntegerProperty;
 import static org.assertj.core.api.BDDAssertions.then;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package ste.javafx.commons.property;
+package ste.commons.javafx.property;
 
 import javafx.beans.property.SimpleObjectProperty;
 

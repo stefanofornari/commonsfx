@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package ste.javafx.commons.collections;
+package ste.commons.javafx.collections;
 
-import ste.javafx.commons.collections.MappedList;
+import ste.commons.javafx.collections.MappedList;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import org.junit.jupiter.api.BeforeEach;
